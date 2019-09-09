@@ -9,7 +9,7 @@ interface IAssessmentProps{
 const Assessments = (props:IAssessmentProps) => {
   return (
 		<View>
-			<Text>Assessments</Text>
+			
 		</View>
   );
 };
